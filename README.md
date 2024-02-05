@@ -38,6 +38,8 @@ There's two more tools that I use - [Google Translate](https://translate.google.
 
 In addition I sometimes consult [Duden](https://www.duden.de/) (DD) and [German stackexchange](https://german.stackexchange.com/) (GSE). Duden covers more words then wiktionary, and GSE covers interesting questions, such as differences etc.
 
+When proofreading the initial translation, I will first be using a [Grammar checker](https://languagetool.org/) (GC) and then ChatGPT. The usage will be geared towards information as much as possible - meaning I will use the indication of error to correct it myself, and only after multiple failures will I take the offered solution.
+
 I generally will not mark the use of those tools in the text, but if there appears a need for that I will be using the shorhand described here.
 
 ## Texts
