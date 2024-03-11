@@ -1,0 +1,36 @@
+Geehrter Herr Wilde,
+
+Ich heiße Tomislav und ich schreibe euch über mein Interesse bei dSPACE zu arbeiten.
+Ich arbeite zurzeit als Pythonentwickler wie sucht Sie in eure Stellenanzeige.
+Ich glaube ich kann meine Erfarung benutzen eure Team zu verbessern. Meine Passion ist
+für tüchtig, klar, nützlich und produktiv code zu entwickeln und sie hat nur steigt auf
+seit ich in die Industrie sein.
+
+Ich bekam meine Master-Abschluss auf der Fakultät für Naturwissenschaft auf Universität
+Zagreb. Dort studierte ich Hauptfach Informatik und Physik, mit Nebenfach
+Mathematik. Frührer arbeitete ich als Mittelschullehrer und dort lernte ich viele
+Sozialkompetenze, z.B. Teamerbiet, Projektleitung oder Konfliktlösung.
+
+Zurzeit als softwareentwickler bei Ericsson Nikola Tesla, meine Hauptaufgabe ist code
+zu schreiben und testen und meine Nebenaufgabe ist CICD-Verfahrung zu kontrolieren
+und Systembereitsstellung zu testen. Ich kooperiere oft auch mit andere Teams. z.B. ich
+führte ein Team das spezializiertet sich auf Machinenlernen für Stromeinsparung für
+Mobilfunknetze.
+
+Ich kann leider diese Projekte nicht zeigen, da sie pripriatär sind. Aber ich kann meine
+Hobbyprojekte auf Github zeigen. Sie sind leider begrentzt auf meine Freizeit, aber
+sie zeigen die Technologie und Arbeitsprinzipien ich gerne nutzen.
+
+Ich interesiere mich sehr für dSPACE zu arbeiten da ich interesiere mich auch über
+Simulationen. Beide meine Dissertatione wären Rechnungsimulationen in der Bereich der
+Physik. Die erste war eine Simulation von Neutronbremsung in einen Kernreaktor und die
+zweite war über Sternlichtstreuung auf kosmischer Nebel. Ich benutzte auch viele Simulationen
+als ich Lehrer war, also verstehe ich wie viele sie nüztlich sind.
+
+Persönlich interesierre ich mich fűr die Domän des Selbsfahrens und plane ich sie,
+zusammen mit E-Mobilität, in meinen Lebel bald zu benzten. Die Chance fur das zu
+beitragen ist für mich sehr instessant und motivierend, davor glaube ich dass ich
+würde in seine Firma und seine Teams sehr gut passt.
+
+Mit freundlichen Grüßen
+Tomislav Nazifovic

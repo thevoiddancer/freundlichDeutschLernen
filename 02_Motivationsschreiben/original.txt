@@ -1,32 +1,35 @@
 Dear Mr. Wilde,
 
-My name is Tomislav Nazifovic and I am writing this letter to express my interest in applying to the
-position of Software Developer at dSPACE. I believe I can offer a significant contribution to the team.
-My passion for developing software that is efficient, clear, and useful has only grown since I entered
-the software development career.
+My name is Tomislav Nazifovic and I am writing this letter to express my interest in
+applying to the position of Software Developer at dSPACE. I believe I can offer a
+significant contribution to the team. My passion for developing software that is
+efficient, clear, and useful has only grown since I entered the software development
+career.
 
-I received my master’s degree in Faculty of science in Zagreb, Croatia, where I studied computer
-science and physics, with emphasis on applied math as required by physics. Previously I worked as a
-high school teacher, which has given me a range of social skills, from concise documentation to team
-leadership, in addition to starting my development career with simple apps. In my current role as a
-software developer in Ericsson Nikola Tesla, I’m responsible for writing and testing the code, as well
-as overseeing the CICD procedures and testing system deployment. Most recently I was tasked with
-leading a team who created a data collection system and machine learning model for electricity
-saving on RAN nodes.
+I received my master’s degree in Faculty of science in Zagreb, Croatia, where I studied
+computer science and physics, with emphasis on applied math as required by physics.
+Previously I worked as a high school teacher, which has given me a range of social
+skills, from concise documentation to team leadership, in addition to starting my
+development career with simple apps. In my current role as a software developer in
+Ericsson Nikola Tesla, I’m responsible for writing and testing the code, as well as
+overseeing the CICD procedures and testing system deployment. Most recently I was
+tasked with leading a team who created a data collection system and machine learning
+model for electricity saving on RAN nodes.
 
-Unfortunately, because the projects I worked on are proprietary, I can only showcase the passion
-projects I have on github, but those are limited by free time and still unfinished, but showcase the
-types of technology I prefer working in.
+Unfortunately, because the projects I worked on are proprietary, I can only showcase
+the passion projects I have on github, but those are limited by free time and still
+unfinished, but showcase the types of technology I prefer working in.
 
-I am very interested in working for dSPACE since I am also very interested in the domain of
-simulations. Both of my thesis were computer simulations in the domain of physics, first one of
-neutron moderation in a nuclear reactor, and the second of stellar light scattering on cosmic
-nebulae, and during a significant part of my career I worked with physics simulation apps (as a
-teacher), so I understand the significant benefit they give. Specifically, the domain of self-driving is
-something that has long been a personal interest of mine, and, with e-mobility, is something I plan
-on integrating in my personal life as soon as possible. The chance to contribute in that field is
-something that is very exciting for me. Therefore, I believe that I would be a great fit and benefit for
-the dSPACE.
+I am very interested in working for dSPACE since I am also very interested in the
+domain of simulations. Both of my thesis were computer simulations in the domain of
+physics, first one of neutron moderation in a nuclear reactor, and the second of
+stellar light scattering on cosmic nebulae, and during a significant part of my
+career I worked with physics simulation apps (as a teacher), so I understand the
+significant benefit they give. Specifically, the domain of self-driving is something
+that has long been a personal interest of mine, and, with e-mobility, is something I
+plan on integrating in my personal life as soon as possible. The chance to contribute
+in that field is something that is very exciting for me. Therefore, I believe that I
+would be a great fit and benefit for the dSPACE.
 
 Sincerely,
 Tomislav Nazifovic
