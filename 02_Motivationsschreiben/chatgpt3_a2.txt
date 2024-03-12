@@ -1,16 +1,41 @@
 Sehr geehrter Herr Wilde,
 
-ich schreibe Ihnen, um mein Interesse an einer Position bei dSPACE zum Ausdruck zu bringen. Derzeit arbeite ich als Python-Entwickler, genau wie in Ihrer Stellenanzeige gefordert. Ich denke, ich könnte mein Wissen und meine Erfahrung nutzen, um Ihr Team zu unterstützen. Es macht mir Freude, effizienten, klaren und nützlichen Code zu entwickeln, und meine Fähigkeiten haben sich seit meinem Eintritt in die Industrie stetig verbessert.
+ich schreibe Ihnen, um mein Interesse an einer Position bei dSPACE zum
+Ausdruck zu bringen. Derzeit arbeite ich als Python-Entwickler, genau
+wie in Ihrer Stellenanzeige gefordert. Ich denke, ich könnte mein Wissen
+und meine Erfahrung nutzen, um Ihr Team zu unterstützen. Es macht mir
+Freude, effizienten, klaren und nützlichen Code zu entwickeln, und meine
+Fähigkeiten haben sich seit meinem Eintritt in die Industrie stetig verbessert.
 
-Meinen Master-Abschluss habe ich an der Universität Zagreb in den Naturwissenschaften gemacht. Dort habe ich Informatik und Physik als Hauptfächer und Mathematik als Nebenfach studiert. Vor meiner jetzigen Tätigkeit als Softwareentwickler bei Ericsson Nikola Tesla war ich als Lehrer an einer Mittelschule tätig, wo ich viele soziale Fähigkeiten wie Teamarbeit, Projektmanagement und Konfliktlösung erlernt habe.
+Meinen Master-Abschluss habe ich an der Universität Zagreb in den
+Naturwissenschaften gemacht. Dort habe ich Informatik und Physik als
+Hauptfächer und Mathematik als Nebenfach studiert. Vor meiner jetzigen
+Tätigkeit als Softwareentwickler bei Ericsson Nikola Tesla war ich als
+Lehrer an einer Mittelschule tätig, wo ich viele soziale Fähigkeiten wie
+Teamarbeit, Projektmanagement und Konfliktlösung erlernt habe.
 
-Bei meiner aktuellen Tätigkeit liegt mein Hauptaugenmerk darauf, Code zu schreiben und zu testen, während ich auch das CI/CD-Verfahren überwache und die Systembereitstellung teste. Ich arbeite häufig mit anderen Teams zusammen, beispielsweise leite ich ein Team, das sich auf maschinelles Lernen zur Energieeinsparung in Mobilfunknetzen spezialisiert hat.
+Bei meiner aktuellen Tätigkeit liegt mein Hauptaugenmerk darauf, Code zu
+schreiben und zu testen, während ich auch das CI/CD-Verfahren überwache
+und die Systembereitstellung teste. Ich arbeite häufig mit anderen Teams
+zusammen, beispielsweise leite ich ein Team, das sich auf maschinelles
+Lernen zur Energieeinsparung in Mobilfunknetzen spezialisiert hat.
 
-Leider kann ich Ihnen keine Einblicke in meine aktuellen Projekte geben, da sie proprietär sind. Allerdings kann ich Ihnen gerne meine Hobbyprojekte auf Github zeigen. Diese sind zwar auf meine Freizeit beschränkt, zeigen aber die Technologien und Arbeitsprinzipien, die ich gerne anwende.
+Leider kann ich Ihnen keine Einblicke in meine aktuellen Projekte geben,
+da sie proprietär sind. Allerdings kann ich Ihnen gerne meine Hobbyprojekte
+auf Github zeigen. Diese sind zwar auf meine Freizeit beschränkt, zeigen
+aber die Technologien und Arbeitsprinzipien, die ich gerne anwende.
 
-Ich interessiere mich sehr für eine Tätigkeit bei dSPACE, da ich ein großes Interesse an Simulationen habe. Meine Dissertationen waren Simulationen im Bereich der Physik: Eine behandelte die Neutronenverlangsamung in einem Kernreaktor und die andere die Streuung von Sternenlicht in kosmischen Nebeln. Auch während meiner Zeit als Lehrer habe ich viele Simulationen verwendet und verstehe daher ihre Nützlichkeit.
+Ich interessiere mich sehr für eine Tätigkeit bei dSPACE, da ich ein großes
+Interesse an Simulationen habe. Meine Dissertationen waren Simulationen im
+Bereich der Physik: Eine behandelte die Neutronenverlangsamung in einem
+Kernreaktor und die andere die Streuung von Sternenlicht in kosmischen
+Nebeln. Auch während meiner Zeit als Lehrer habe ich viele Simulationen
+verwendet und verstehe daher ihre Nützlichkeit.
 
-Persönlich interessiere ich mich auch für das Thema autonomes Fahren und plane, es zusammen mit Elektromobilität in naher Zukunft zu nutzen. Die Möglichkeit, dazu beizutragen, ist für mich äußerst interessant und motivierend. Ich glaube, dass ich gut in Ihr Unternehmen und Ihre Teams passen würde.
+Persönlich interessiere ich mich auch für das Thema autonomes Fahren und
+plane, es zusammen mit Elektromobilität in naher Zukunft zu nutzen. Die
+Möglichkeit, dazu beizutragen, ist für mich äußerst interessant und
+motivierend. Ich glaube, dass ich gut in Ihr Unternehmen und Ihre Teams passen würde.
 
 Mit freundlichen Grüßen
 
