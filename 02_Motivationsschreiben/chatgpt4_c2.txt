@@ -1,0 +1,16 @@
+Geehrter Herr Wilde,
+
+mit großem Interesse bewerbe ich mich um eine Stelle bei dSPACE. Derzeit bin ich als Python-Entwickler tätig, eine Position, die Ihren Anforderungen in der Stellenanzeige entspricht. Ich bin überzeugt, dass meine Erfahrungen einen wertvollen Beitrag zu Ihrem Team leisten können. Meine Leidenschaft liegt in der Entwicklung von effizientem, klarem und produktivem Code, eine Passion, die seit meinem Einstieg in die Branche stetig gewachsen ist.
+
+Meinen Masterabschluss erlangte ich an der Fakultät für Naturwissenschaften der Universität Zagreb, wo ich Informatik und Physik als Hauptfächer und Mathematik als Nebenfach studierte. In meiner früheren Tätigkeit als Lehrer an einer Mittelschule konnte ich wertvolle soziale Kompetenzen wie Teamarbeit, Projektmanagement und Konfliktlösung entwickeln.
+
+In meiner aktuellen Position als Softwareentwickler bei Ericsson Nikola Tesla liegt mein Hauptfokus auf der Entwicklung und dem Testen von Code sowie der Überwachung von CI/CD-Prozessen und der Systembereitstellung. Ich arbeite regelmäßig mit anderen Teams zusammen, beispielsweise leitete ich ein Team, das sich auf Maschinenlernen zur Energieeinsparung in Mobilfunknetzen spezialisiert hat.
+
+Leider kann ich Ihnen aufgrund der Vertraulichkeit keine Projekte zeigen. Jedoch stehe ich Ihnen gerne zur Verfügung, um meine Hobbyprojekte auf GitHub zu präsentieren. Diese sind zwar in meiner Freizeit entstanden, demonstrieren aber deutlich die Technologien und Arbeitsprinzipien, die ich bevorzuge.
+
+Mein besonderes Interesse gilt der Arbeit bei dSPACE, besonders im Bereich der Simulationen. Meine Dissertationen befassten sich mit Simulationsrechnungen im physikalischen Sektor: Die eine über die Neutronenbremsung in Kernreaktoren, die andere über die Streuung von Sternenlicht in kosmischem Nebel. Simulationen waren auch ein wesentlicher Bestandteil meiner Lehrtätigkeit, wodurch ich ihre Bedeutung und Nützlichkeit tiefgehend verstehe.
+
+Ein persönliches Anliegen ist mir die Förderung des autonomen Fahrens und der E-Mobilität, die ich in naher Zukunft in meinem Leben integrieren möchte. Die Möglichkeit, zu diesem Bereich beizutragen, finde ich besonders reizvoll und motivierend. Ich bin überzeugt, dass ich eine wertvolle Ergänzung für Ihr Unternehmen und Ihre Teams darstellen würde.
+
+Mit freundlichen Grüßen,
+Tomislav Nazifovic
